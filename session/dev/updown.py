@@ -18,3 +18,4 @@ for i in range(50):
     z=100-y
     y= y-int(random.random()*z)+1
     
+    
